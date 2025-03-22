@@ -4,7 +4,7 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 // Define a simple welcome message
-$welcomeMessage = "Welcome to My Website!";
+$welcomeMessage = "Welcome to Me Consultancy Online!";
 
 // Get the current date and time
 date_default_timezone_set('UTC'); // Set to your timezone if needed
